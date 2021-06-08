@@ -1,0 +1,11 @@
+.git
+db.sqlite3
+venv/
+static/
+.dockerignore
+.gitignore
+docker-compose.yml
+.gitlab-ci.yml
+devops/
+Dockerfile
+.vscode

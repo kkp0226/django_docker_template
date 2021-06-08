@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.vscode
+
+#db-files
+db.sqlite3
+
+# Environments
+venv/
+
+# macos
+.DS_Store
+
+# static files
+static/
